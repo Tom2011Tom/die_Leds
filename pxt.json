@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "pxt-callicolor": "github:mkleinsb/pxt-callicolor#v0.2.1"
+        "pxt-callicolor": "github:mkleinsb/pxt-callicolor#v0.2.1",
+        "pxt-digole": "github:mkleinsb/pxt-digole#v0.2.0",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
     },
     "files": [
         "main.blocks",
